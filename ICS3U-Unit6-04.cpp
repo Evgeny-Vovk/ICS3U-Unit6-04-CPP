@@ -29,8 +29,8 @@ int main() {
 
     int aSingleRandomNumber = 0;
     int average = 0;
-    const int rows = 3;
-    const int columns = 4;
+    const int rows = 1;
+    const int columns = 5;
     int a2DArray[rows][columns];
     int indent = 1;
 
